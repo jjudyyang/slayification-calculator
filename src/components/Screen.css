@@ -1,0 +1,17 @@
+.screen {
+    height: 100px;
+    width: 100%;
+    margin-bottom: 20px;
+    padding: 0 10px;
+    background-color: #4E2C3D;
+    border-top-left-radius: 25px;
+    border-top-right-radius: 25px;
+    border-bottom-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    color: white;
+    font-weight: bold;
+    box-sizing: border-box;
+  }
