@@ -1,5 +1,8 @@
 # Getting Started with Create React App
 
+creating a calculator to learn react and play around with react.
+tutorial from: https://www.sitepoint.com/react-tutorial-build-calculator-app/
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
